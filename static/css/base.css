@@ -1,0 +1,45 @@
+body{
+	font-weight: 400;
+	font-family:'Source Sans Pro', sans-serif;
+}
+.banner{
+	left: 5%;
+	top: 0;
+	position: absolute;
+	float: left;
+	padding-top: 10%;
+	background-color: #000;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.address{
+	position: relative;
+	float: left;
+	left:50%;
+	/*width: 10%*/
+	text-align:center;
+	color: #ffffff;
+}
+.address p{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.footer{
+	position: absolute;
+	font-style: italic;
+	text-align: justify;
+	left:40%;
+	bottom: 0;
+	width: 40%;
+	background: #000000;
+	color: #ffffff;
+	padding-top:20px;
+	padding-bottom: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 16px;
+	line-height: 20px;
+	font-weight: 200;
+}
